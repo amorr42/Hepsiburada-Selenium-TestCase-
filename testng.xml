@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Trendyol" verbose="1" parallel="tests" thread-count="1" configfailurepolicy="continue">
-    <test name="Trendyol Test Case" annotations="JDK" preserve-order="true">
+<suite name="Hepsiburada" verbose="1" parallel="tests" thread-count="1" configfailurepolicy="continue">
+    <test name="Hepsiburada Test Case" annotations="JDK" preserve-order="true">
         <classes>
             <class name="runner.TestRunner"/>
         </classes>
